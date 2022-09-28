@@ -8,6 +8,7 @@ const producto = {
 //asigna el atributo del objeto a una variable
 //const nombre = producto.nombre;
 
+//imprime el valor del nombre llamando la variable
 //console.log(nombre)
 
 //nueva forma -> Destructuring
