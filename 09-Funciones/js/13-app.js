@@ -30,6 +30,7 @@ const reproductor = {
     crearPlaylist: nombrePlaylist => console.log(`se agrego la playlist ${nombrePlaylist}`),
     reproducirPlaylist: nombre => console.log(`la playlist ${nombre} se esta reproduciendo`),
 
+    //Set nad Get
     set nuevaCancion(cancion){
 
         this.cancion = cancion;
