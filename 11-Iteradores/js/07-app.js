@@ -12,6 +12,11 @@ const carrito = [
         
 ]
 
+for(let pendiente in pendientes){
+
+    console.log(pendientes[pendiente])
+}
+
 for(let pendiente of pendientes){
 
     console.log(pendiente)
