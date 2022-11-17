@@ -9,7 +9,7 @@ const carrito = [
 
 //every
 
-const resultado = carrito.every( producto => producto.precio < 1000);//todos los objetos deben cumplir la condicion
+const resultado = carrito.every( producto => producto.precio < 600);//todos los objetos deben cumplir la condicion, sino devuelve false
 console.log(resultado);
 
 //some

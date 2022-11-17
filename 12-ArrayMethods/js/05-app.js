@@ -21,3 +21,5 @@ console.log(resultado)
 //.find
  const resultado2 = carrito.find( producto => producto.precio === 100);
  console.log(resultado2);
+
+ 
